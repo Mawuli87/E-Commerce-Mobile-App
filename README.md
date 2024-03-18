@@ -14,6 +14,4 @@ React Native Image Picker for android and ios
 
 ## Created with:
 
-- React Native CLI.
-- Android version: 14
-- SDK version: 34
+- React Native Expo.
