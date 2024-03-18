@@ -1,5 +1,4 @@
 ﻿# E-Commerce-Mobile-App
-# E-Commerce-Mobile-App
 React Native Image Picker for android and ios
 <img src = "screenshots/Screenshot_20240318_130833_ExpoGo.jpg" height="400">
 <img src = "screenshots/Screenshot_20240318_130724_Expo.jpg" height="400">
@@ -13,7 +12,7 @@ React Native Image Picker for android and ios
 
 ## Created with:
 
-- React Native CLI.
+- React Native Expo.
 - Android version: 14
 - SDK version: 34
 
